@@ -1,4 +1,6 @@
-﻿This is a Harmony patch template for StationeersMods. You can use this template without Unity.
+﻿https://github.com/jixxed/StationeersMods/blob/main/doc/CREATE-MOD-CODE.md
+
+This is a Harmony patch template for StationeersMods. You can use this template without Unity.
 
 To properly use this template you need to do the following:
 Configure the StationeersDirectory in ExamplePatchMod.VS.props 
